@@ -1,6 +1,8 @@
 ## PC Components Form Factors
 **Refered [Formfactors.org](www.formfactors.org)**
 
+**Designed in Solidworks, but added IGES/STL Files for compatiablity.**
+
 In 3D CAD Drawing, We need reference dimensions of pc components in design process of PC cases.
 So I searched some dimensions and uploaded here.
 
